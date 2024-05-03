@@ -1,0 +1,24 @@
+.box{
+    display: flex;
+    gap: 50px;
+}
+
+.box-item{
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: black;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
